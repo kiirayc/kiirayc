@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Kira
+
+Welcome to my corner of GitHub! 🚀 I’m an undergraduate student at UCI, passionate about law and AI.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Java, TypeScript
+- **Frameworks & Libraries:** React, FastAPI
+- **Databases:** MySQL, Qdrant
+- **Tools & Platforms:** AWS, Docker
+
+---
+
+## 📈 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiirayc&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/kiirayc)
+- 📧 Email: kirac4@uci.edu
