@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Kira
 
 <!--
 **kiirayc/kiirayc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Kira
-
 Welcome to my corner of GitHub! 🚀 I’m an undergraduate student at UCI, passionate about law and AI.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -27,14 +23,6 @@ Welcome to my corner of GitHub! 🚀 I’m an undergraduate student at UCI, pass
 - **Frameworks & Libraries:** React, FastAPI
 - **Databases:** MySQL, Qdrant
 - **Tools & Platforms:** AWS, Docker
-
----
-
-## 📈 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiirayc&show_icons=true&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
